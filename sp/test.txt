@@ -1,0 +1,3 @@
+My todo list:
+
+1. Do approximation to find abs(c) = abs(f), where C = celcius, F = farenheit
